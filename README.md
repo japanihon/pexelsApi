@@ -1,2 +1,2 @@
-# pexelsApi
+# Pexels Api
 Pexels Api App
